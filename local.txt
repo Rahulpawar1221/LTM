@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-Welcome to lti 
-Welcome to second line
-Need to perform well in milestone.  
-added 4th line
-=======
->>>>>>> 54f46c1ae584ce9fce4dd696c8d258d506e24e45
-how are ypou doung 4 command at a time
-ha ha aha ha 
